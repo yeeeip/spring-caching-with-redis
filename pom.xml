@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.nuzhd</groupId>
-    <artifactId>SpringRedisCaching</artifactId>
+    <artifactId>spring-redis-caching</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringRedisCaching</name>
     <description>SpringRedisCaching</description>
@@ -70,5 +70,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
