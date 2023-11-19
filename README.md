@@ -1,2 +1,2 @@
-# spring-caching-with-redis
-Using Redis in Spring Boot for implementing caching mechanism
+# How to build this project
+You may clone this project on your local machine using command ```git clone https://github.com/yeeeip/spring-caching-with-redis```
