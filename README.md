@@ -13,7 +13,7 @@ What you need to do is just Run the **main()** method in SpringRedisCachingAppli
 
 If everything is ok, you will see the following text in your console.  
 
-![image](https://github.com/yeeeip/spring-caching-with-redis/assets/81825828/064f12f9-62bb-45bc-b246-d39e4f4c2a51)
+![App Started](https://github.com/yeeeip/spring-caching-with-redis/assets/81825828/064f12f9-62bb-45bc-b246-d39e4f4c2a51)
 Congratulations! Now you can hit endpoints via [Postman](https://www.postman.com/) and try out how caching mechanism works.
 
 # Starting the project in Docker
