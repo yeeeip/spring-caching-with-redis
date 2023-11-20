@@ -18,7 +18,7 @@ Congratulations! Now you can hit endpoints via [Postman](https://www.postman.com
 
 # Starting the project in Docker
 First of all, you need to download and install [Docker](https://www.docker.com/) on your machine.  
-If you managed to complete this hard quest, it only remains to enter the project directory and type: ```docker-compose up```
-Now, hit http://localhost:8080/api/v1/students and if you see [] (empty array) in the response - everything works!  
+If you managed to complete this hard quest, it only remains to enter the project directory and type: ```docker-compose up```  
+Then hit http://localhost:8080/api/v1/students and if you see [] (empty array) in the response - everything works!  
 
 ![image](https://github.com/yeeeip/spring-caching-with-redis/assets/81825828/ee0fe924-fda0-4f46-9f3b-485ba24595bd)
